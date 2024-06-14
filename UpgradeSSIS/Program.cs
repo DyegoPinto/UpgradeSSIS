@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         // Define paths
-        string sourceDirectory = @"C:\Users\dyego\path";
+        string sourceDirectory = @"C:\Users\dyego\paths";
         string destinationDirectory = @"C:\Users\dyego\source\repos\2019";
         string logFilePath = @"C:\Users\dyego\source\repos\LogFile.log";
 
