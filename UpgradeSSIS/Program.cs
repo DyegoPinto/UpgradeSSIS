@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         // Define paths
-        string sourceDirectory = @"C:\Users\dyego\WorkshopBiComAzure\aula3\03_Pacote_SSIS\PRJ_WORKSHOP_AZURE\PRJ_WORKSHOP_AZURE";
+        string sourceDirectory = @"C:\Users\dyego\path";
         string destinationDirectory = @"C:\Users\dyego\source\repos\2019";
         string logFilePath = @"C:\Users\dyego\source\repos\LogFile.log";
 
